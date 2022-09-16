@@ -1,0 +1,2 @@
+rootProject.name = "uts_5190411092"
+include ':app'
